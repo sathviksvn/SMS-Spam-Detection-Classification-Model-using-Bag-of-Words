@@ -9,6 +9,11 @@ This project presents an SMS Spam Detection model leveraging the Bag of Words (B
 - **Machine Learning Models:** Implements popular algorithms such as Naive Bayes and Logistic Regression, providing comparative insights into their performance on the task of spam detection.
 - **Visualization:** Includes a WordCloud visualization of common spam keywords, offering a visual understanding of the text patterns that differentiate spam from legitimate messages.
 
+## WordCloud Visualization
+The WordCloud image below highlights common keywords found in spam messages. This visualization provides insight into the frequent terms that contribute to spam classification.
+
+![WordCloud](wordcloud_sms.png)
+
 ## Technologies Used
 - **Python Libraries:** Utilizes powerful Python libraries including NLTK for natural language processing, spaCy for advanced text handling, scikit-learn for machine learning, pandas for data manipulation, and NumPy for numerical operations.
 
